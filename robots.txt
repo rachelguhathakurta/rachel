@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/rachel/sitemap.xml
+Sitemap: https://rachelguhathakurta.github.io/rachel/sitemap.xml
