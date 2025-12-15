@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm Rachel Guhathakurta, and I'm currently an M&T dual-degree student at the University of Pennsylvania. I'm working towards a <a href="https://catalog.upenn.edu/undergraduate/programs/computer-science-bas/" target = "blank">B.A.S. in Computer Science </a>and a <a href="https://undergrad.wharton.upenn.edu/" target="blank">B.S. in Economics</a> from Penn Engineering and The Wharton School, respectively, with graduation set for May 2028. I focus on building robust backend and data-intensive systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work centers on developing end-to-end applications using Python and Java. This means I enjoy handling everything from the initial model training and data pipelines to setting up the APIs (like Flask) and deploying the final web application. My background includes fun work in robotics, computer vision, and quantitative analysis.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Last summer, I interned at <a href="https://burro.ai/" target="blank">BURRO, an AI agricultural robotics startup</a>. One of my favorite projects was developing a spare parts ordering portal and integrating it with their CRM and inventory systems, which helped automate the order flow. I also got to research and write a white paper on how Retrieval Augmented Generation (RAG) could be used to support their fleet operations.
+
+On the project side, I've built a full computer vision system in TensorFlow to detect behavioral patterns from video, achieving 93.4% accuracy. I’ve also applied my quantitative skills by co-designing a systematic trading strategy that ranked in the top 10th percentile globally during the IMC Prosperity Challenge.
+
+I'm always excited about leveraging machine learning and thoughtful backend design to solve real-world problems!
